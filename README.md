@@ -5,6 +5,10 @@
 * Is Israeli settler violence against Palestinian civilians in the West Bank concentrated in specific areas (i.e. around Settlements, etc.)?
 
 #### Idea 2:
+[Forced home demolitions in Palestine (2004 - 2021)](https://www.kaggle.com/datasets/zusmani/home-demolitions-in-palestine-20042021/code)
+
+#### Idea 3:
+
 
 ## Where's Schueller?
 {% include_relative wheres-schueller.html %}

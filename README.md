@@ -8,6 +8,9 @@
 [Forced home demolitions in Palestine (2004 - 2021)](https://www.kaggle.com/datasets/zusmani/home-demolitions-in-palestine-20042021/code)
 
 #### Idea 3:
+[Aid worker security database (2002 - 2025](https://data.humdata.org/dataset/aid-worker-security-database-pse)
+
+#### Idea 4:
 
 
 ## Where's Schueller?

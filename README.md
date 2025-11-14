@@ -6,9 +6,9 @@ Is Israeli settler violence against Palestinian civilians in the West Bank conce
 
 ### Idea 2:
 [ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled) <br>
-#### Idea 2.1:
+#### 2.1:
 Do the areas where the largest numbers of Palestinian civilian fatalities occur differ based on Israeli actor type?
-#### Idea 2.2:
+#### 2.2:
 I could do some additional research into statistical indicators of genocide and (likely using additional datasets) use the data to analyze the events in Gaza (this may be a wider scope than is feasible for this project).
 
 ### Idea 3:
@@ -19,10 +19,10 @@ Related sources: [source 1](https://www.ohchr.org/en/press-releases/2025/06/isra
 
 ### Idea 4:
 [Forced home demolitions in Palestine (2004 - 2021)](https://www.kaggle.com/datasets/zusmani/home-demolitions-in-palestine-20042021) <br>
-#### Idea 4.1:
+#### 4.1:
 [ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled) <br>
 Is there a correlation between number of the number of yearly home demolitions and civilian targeting events in each governorate? <br>
-#### Idea 4.2
+#### 4.2
 [Israeli settler violence against Palestinian civilians CSV](settler-violence-map-data-fatalities.csv) - [Source](https://acleddata.com/myacled) <br>
 Is there a correlation between number of the number of yearly home demolitions and events of settler violence against Palestinians?
 

@@ -6,7 +6,7 @@ Is Israeli settler violence against Palestinian civilians in the West Bank conce
 
 #### Idea 2:
 [Forced home demolitions in Palestine (2004 - 2021)](https://www.kaggle.com/datasets/zusmani/home-demolitions-in-palestine-20042021) <br>
-[ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled)
+[ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled) <br>
 Is there a correlation between number of the number of yearly home demolitions and civilian targeting events in each governorate? <br>
 
 OR <br>

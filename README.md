@@ -34,4 +34,4 @@ Is there a correlation between violence againsta aid workers and violence agains
 
 ## Above and Beyond
 [ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled) <br>
-I could do some additional research into statistical indicators of genocide and use this dataset along with others to analyze the events in Gaza. This is above and beyond because it is likely outside the scope of this project (and probably more in the scope of the project of an NGO, but regardless it would be interesting to look into.
+I could do some additional research into statistical indicators of genocide and use this dataset along with others to analyze the events in Gaza. This is above and beyond because it is likely outside the scope of this project (and probably more in the scope of the project of an NGO), but regardless it would be interesting to look into.

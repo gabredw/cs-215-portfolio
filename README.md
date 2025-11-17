@@ -8,13 +8,11 @@ Is Israeli settler violence against Palestinian civilians in the West Bank conce
 [ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled) <br>
 #### 2.1:
 Do the areas where the largest numbers of Palestinian civilian fatalities occur differ based on Israeli actor type?
-#### 2.2:
-I could do some additional research into statistical indicators of genocide and (likely using additional datasets) use the data to analyze the events in Gaza (this may be a wider scope than is feasible for this project).
 
 ### Idea 3:
 [Education facilities in Palestine](hotosm_pse_education_facilities_points_geojson.zip) <br>
 [ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled) <br>
-I saw an article a while back discussing students being targeted by Israeli occupation forces around schools, it could be interesting to look more into that (I know that I cannot determine intent, but it would still be interesting to look at civilian targeting incidents in the vicinity of schools. <br>
+I saw an article a while back discussing students being targeted by Israeli occupation forces around schools, it could be interesting to look more into that (I know that I cannot determine intent, but it would still be interesting to look at civilian targeting incidents in the vicinity of schools). <br>
 Related sources: [source 1](https://www.ohchr.org/en/press-releases/2025/06/israeli-attacks-educational-religious-and-cultural-sites-occupied)
 
 ### Idea 4:
@@ -28,6 +26,12 @@ Is there a correlation between number of the number of yearly home demolitions a
 
 ### Idea 5:
 [Aid worker security database (Palestine 2002 - 2025)](https://data.humdata.org/dataset/aid-worker-security-database-pse)
+Which agencies are most affected? <br>
+Is there a correlation between violence againsta aid workers and violence against Palestinians and what types of actors are most commonly the perpatrators for each party?
 
 ## Where's Schueller?
 {% include_relative wheres-schueller.html %}
+
+## Above and Beyond
+[ACLED data Palestine and Israel (2016 - present)](acled-data.csv.zip) - [Source](https://acleddata.com/myacled) <br>
+I could do some additional research into statistical indicators of genocide and use this dataset along with others to analyze the events in Gaza. This is above and beyond because it is likely outside the scope of this project (and probably more in the scope of the project of an NGO, but regardless it would be interesting to look into.

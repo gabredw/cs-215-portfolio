@@ -1,3 +1,6 @@
+## Projects
+[Homwork 06: Analysis of Conflict Events Between Palestine and Israel](https://gabredw.github.io/conflict-events-analysis/)
+
 ## Data Sources and Project Ideas
 ### Idea 1:
 [Israeli communities, settlements, and outposts data](https://www.arcgis.com/home/item.html?id=ebaa8bd16ede4ec39f5564cb75e7501d) <br>

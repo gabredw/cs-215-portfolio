@@ -1,5 +1,8 @@
 ## Projects
 [Homwork 06: Analysis of Conflict Events Between Palestine and Israel](https://gabredw.github.io/conflict-events-analysis/)
+An analysis of the disparities and dynamics of politcal violence between Palestine and Israel. Political Violence in the ACLED Codebook is defined as a single altercation defined by “the use of force by a group with a political purpose/motivation, or with distinct political effects.”
+
+
 
 ## Data Sources and Project Ideas
 ### Idea 1:
